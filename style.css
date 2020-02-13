@@ -34,7 +34,7 @@ section {
     display: flex;
     justify-content: middle;
     align-items: center;
-    text-align: left;
+    text-align: center;
     
     background-size: cover; /* Add this line */
     background-position: center center; /* Add this line */
